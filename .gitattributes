@@ -1,4 +1,0 @@
-4[[:space:]]-[[:space:]]Convolutional[[:space:]]Nets/[W2][[:space:]]3[[:space:]]-[[:space:]]Keras[[:space:]]ResNets/ResNet50.h5 filter=lfs diff=lfs merge=lfs -text
-4[[:space:]]-[[:space:]]Convolutional[[:space:]]Nets/[W3][[:space:]]4[[:space:]]-[[:space:]]Keras[[:space:]]YOLO[[:space:]]Car[[:space:]]detection[[:space:]]for[[:space:]]Autonomous[[:space:]]Driving/model_data/yolo.h5 filter=lfs diff=lfs merge=lfs -text
-4[[:space:]]-[[:space:]]Convolutional[[:space:]]Nets/[W4][[:space:]]6[[:space:]]-[[:space:]]TensorFlow[[:space:]]Neural[[:space:]]Style[[:space:]]Transfer[[:space:]]Minimizing[[:space:]]Costs/pretrained-model/imagenet-vgg-verydeep-19.mat filter=lfs diff=lfs merge=lfs -text
-5[[:space:]]-[[:space:]]Sequence[[:space:]]Models[[:space:]]and[[:space:]]RNNs/[W2][[:space:]]4[[:space:]]-[[:space:]]Numpy[[:space:]]Word[[:space:]]Embeddings[[:space:]](Vector[[:space:]]Representation)/data/glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
